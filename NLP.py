@@ -198,7 +198,8 @@ if __name__ == '__main__':
         output_file.write('T5 (unicamp-dl/translation-en-pt-t5)\n')
         output_file.write('40 sentences\n')
         model_name = "unicamp-dl/translation-en-pt-t5"
-        tokenizer = T5Tokenizer.from_pretrained(model_name)
+        tokenizer = T5Tokenizer.from_pretrained(model_name, legacy=False)
+
         model = T5ForConditionalGeneration.from_pretrained(model_name)
 
         prefixedSentences = ['translate English to Portuguese: ' + sentence for sentence in sentences]
