@@ -15,17 +15,17 @@ def divir_em_blocos_20(vetor, tamanho):
     return [vetor[i:i + tamanho] for i in range(0, len(vetor), tamanho)]
 
 def join_blocos_em_string(vetor_dividido):
-  sentenceGroups = []
-  for i, v in enumerate(vetor_dividido):
-    chunk = ' '.join(v)
-    sentenceGroups.append(chunk)
-  return sentenceGroups
+    sentenceGroups = []
+    for i, v in enumerate(vetor_dividido):
+        chunk = ' '.join(v)
+        sentenceGroups.append(chunk)
+    return sentenceGroups
 
 def calcMeteor(reference, candidate):
-  candidate_tokens = word_tokenize(candidate)
-  reference_tokens = word_tokenize(reference)
-  meteorScore = meteor_score([reference_tokens], candidate_tokens)
-  return meteorScore
+    candidate_tokens = word_tokenize(candidate)
+    reference_tokens = word_tokenize(reference)
+    meteorScore = meteor_score([reference_tokens], candidate_tokens)
+    return meteorScore
 
 def calcBleu(reference, candidate):
     candidate_tokens = word_tokenize(candidate)
@@ -33,19 +33,19 @@ def calcBleu(reference, candidate):
     bleu_score = sentence_bleu([reference_tokens], candidate_tokens)
     return bleu_score
 
-def calcRouge(reference, candidate):
+def calcRouge(references, candidates):
     rouge = Rouge()
-    scores = rouge.get_scores(candidate, reference)
-    return scores[0]
+    rouge_scores = rouge.get_scores(candidates, references, avg=True)
+    return rouge_scores
 
 def calcMeteorChunks():
-   scores = []
-   for i in range(len(chunks_translated_sentences)):
+    scores = []
+    for i in range(len(chunks_translated_sentences)):
         meteor = calcMeteor(chunks_reference_translations[i], chunks_translated_sentences[i])
         scores.append(meteor)
         output_file.write(f"Bloco {i+1} - Meteor Score: {meteor}\n")
-   scoreMeteorAvg = np.average(scores)
-   return scoreMeteorAvg
+    scoreMeteorAvg = np.average(scores)
+    return scoreMeteorAvg
 
 def calcBleuChunks():
     scores = []
@@ -81,10 +81,10 @@ def translate(sentences):
 if __name__ == '__main__':
     with open('results.txt', 'w', encoding='utf-8') as output_file:
         # Seu código aqui
-        with open('19_10pt.txt', 'r', encoding='utf-8') as fPt:
+        with open('pln/19_10pt.txt', 'r', encoding='utf-8') as fPt:
             reference_translations = [line.strip() for line in fPt if line.strip()]
 
-        with open('19_10en.txt', 'r', encoding='utf-8') as fEn:
+        with open('pln/19_10en.txt', 'r', encoding='utf-8') as fEn:
             sentences = [line.strip() for line in fEn if line.strip()]
 
         sentences_divididos = divir_em_blocos_20(sentences, 20)
@@ -95,19 +95,23 @@ if __name__ == '__main__':
         results = {
             "opus-mt-en-ROMANCE": {
                 "exec_time": None,
-                "meteor": None
+                "meteor": None,
+                "bleu:": None
             },
             'opus-mt-tc-big-en-pt': {
                 "exec_time": None,
-                "meteor": None
+                "meteor": None,
+                "bleu:": None
             },
             'translation-en-pt-t5': {
                 "exec_time": None,
-                "meteor": None
+                "meteor": None,
+                "bleu:": None
             },
             'mbart-large-50-many-to-many-mmt': {
                 "exec_time": None,
-                "meteor": None
+                "meteor": None,
+                "bleu": None
             }
         }
 
@@ -148,12 +152,6 @@ if __name__ == '__main__':
 
         translated_sentences_divididos = divir_em_blocos_20(translated_sentences, 20)
         chunks_translated_sentences = join_blocos_em_string(translated_sentences_divididos)
-
-        meteor = calcMeteorChunks()
-        output_file.write(f"Meteor: {meteor}\n")
-
-        results['opus-mt-en-ROMANCE']['exec_time'] = exec_time
-        results['opus-mt-en-ROMANCE']['meteor'] = meteor
 
         meteor = calcMeteorChunks()
         output_file.write(f"Meteor: {meteor}\n")
@@ -259,3 +257,6 @@ if __name__ == '__main__':
             output_file.write(f"{element}\n")
         for key, value in results[element].items():
             output_file.write(f"    {key}: {value}\n")
+        
+        rouge_avg = calcRouge(reference_translations, sentences)
+        output_file.write(f"Medias gerais ROUGE: {rouge_avg}")
