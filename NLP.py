@@ -2,7 +2,7 @@ from transformers import MarianMTModel, MarianTokenizer, T5Tokenizer, T5ForCondi
 from rouge import Rouge
 import nltk
 from nltk.translate.meteor_score import meteor_score
-from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
+from nltk.translate.bleu_score import sentence_bleu
 from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 nltk.download('punkt_tab')
@@ -37,6 +37,20 @@ def calcRouge(references, candidates):
     rouge = Rouge()
     rouge_scores = rouge.get_scores(candidates, references, avg=True)
     return rouge_scores
+
+def calcRougeChunks():
+    scores = []
+    for i in range(len(chunks_translated_sentences)):
+        rouge = calcRouge(chunks_reference_translations[i], chunks_translated_sentences[i])['rouge-l']
+        scores.append(rouge)
+        output_file.write(f"Bloco {i+1} - Rouge Score: {rouge}\n")
+    scoreRougeAvg = {
+        'r': sum(block['r'] for block in scores) / len(scores),
+        'p': sum(block['p'] for block in scores) / len(scores),
+        'f': sum(block['f'] for block in scores) / len(scores)
+    }
+    return scoreRougeAvg
+
 
 def calcMeteorChunks():
     scores = []
@@ -81,10 +95,10 @@ def translate(sentences):
 if __name__ == '__main__':
     with open('results.txt', 'w', encoding='utf-8') as output_file:
         # Seu código aqui
-        with open('pln/19_10pt.txt', 'r', encoding='utf-8') as fPt:
+        with open('19_10pt.txt', 'r', encoding='utf-8') as fPt:
             reference_translations = [line.strip() for line in fPt if line.strip()]
 
-        with open('pln/19_10en.txt', 'r', encoding='utf-8') as fEn:
+        with open('19_10en.txt', 'r', encoding='utf-8') as fEn:
             sentences = [line.strip() for line in fEn if line.strip()]
 
         sentences_divididos = divir_em_blocos_20(sentences, 20)
@@ -137,7 +151,6 @@ if __name__ == '__main__':
         ##########################################################################################
 
         output_file.write('Marian MT (Helsinki-NLP/opus-mt-en-ROMANCE)\n')
-        output_file.write('40 sentences\n')
         model_name = "Helsinki-NLP/opus-mt-en-ROMANCE"
         tokenizer = MarianTokenizer.from_pretrained(model_name)
         model = MarianMTModel.from_pretrained(model_name)
@@ -156,6 +169,9 @@ if __name__ == '__main__':
         meteor = calcMeteorChunks()
         output_file.write(f"Meteor: {meteor}\n")
 
+        rouge = calcRougeChunks()
+        output_file.write(f"Rouge: {rouge}\n")
+
         bleu = calcBleuChunks()
         output_file.write(f"BLEU: {bleu}\n")
 
@@ -169,7 +185,6 @@ if __name__ == '__main__':
         ##########################################################################################
 
         output_file.write('Marian MT (Helsinki-NLP/opus-mt-tc-big-en-pt)\n')
-        output_file.write('40 sentences\n')
         model_name = "Helsinki-NLP/opus-mt-tc-big-en-pt"
         tokenizer = MarianTokenizer.from_pretrained(model_name)
         model = MarianMTModel.from_pretrained(model_name)
@@ -186,6 +201,9 @@ if __name__ == '__main__':
         meteor = calcMeteorChunks()
         output_file.write(f"Meteor: {meteor}\n")
 
+        rouge = calcRougeChunks()
+        output_file.write(f"Rouge: {rouge}\n")
+
         bleu = calcBleuChunks()
         output_file.write(f"BLEU: {bleu}\n")
 
@@ -196,7 +214,6 @@ if __name__ == '__main__':
         ##########################################################################################
 
         output_file.write('T5 (unicamp-dl/translation-en-pt-t5)\n')
-        output_file.write('40 sentences\n')
         model_name = "unicamp-dl/translation-en-pt-t5"
         tokenizer = T5Tokenizer.from_pretrained(model_name, legacy=False)
 
@@ -216,6 +233,9 @@ if __name__ == '__main__':
         meteor = calcMeteorChunks()
         output_file.write(f"Meteor: {meteor}\n")
 
+        rouge = calcRougeChunks()
+        output_file.write(f"Rouge: {rouge}\n")
+
         bleu = calcBleuChunks()
         output_file.write(f"BLEU: {bleu}\n")
 
@@ -226,7 +246,6 @@ if __name__ == '__main__':
         ##########################################################################################
 
         output_file.write('mBart (facebook/mbart-large-50-many-to-many-mmt)\n')
-        output_file.write('40 sentences\n')
         model_name = "facebook/mbart-large-50-many-to-many-mmt"
         model = MBartForConditionalGeneration.from_pretrained("facebook/mbart-large-50-many-to-many-mmt")
         tokenizer = MBart50TokenizerFast.from_pretrained("facebook/mbart-large-50-many-to-many-mmt")
@@ -244,6 +263,9 @@ if __name__ == '__main__':
 
         meteor = calcMeteorChunks()
         output_file.write(f"Meteor: {meteor}\n")
+
+        rouge = calcRougeChunks()
+        output_file.write(f"Rouge: {rouge}\n")
 
         bleu = calcBleuChunks()
         output_file.write(f"BLEU: {bleu}\n")

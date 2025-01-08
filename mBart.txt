@@ -1,0 +1,287 @@
+mBart
+Rodada 1
+ A lei sobre a biosegurança vai estimular a investigação do Brasil, que já era forte na área
+Rodada 2
+ Marcos Pivetta
+Rodada 3
+ Em 1998, a equipa liderada pelo biólogo James Thomson, da Universidade do Wisconsin, Estados Unidos da América, isolau e desenvolveu, pela primeira vez num laboratório, uma linha de células estaminais extraídas de embriões humanos.
+Rodada 4
+ Foi uma conquista técnica e um problema ético para a investigação biológica.
+Rodada 5
+ Uma conquista, porque os estudos com estas células podem, em teoria, levar a melhores tratamentos ou a cura de uma lista quase interminável de doenças.
+Rodada 6
+Se cultivéssemos adequadamente, as células estaminais embrionárias, e apenas estas, podem originar todos os tecidos de um organismo, cerca de 220 tipos diferentes de células que seriam a matéria-prima para novas terapias.
+Rodada 7
+ Um problema, porque a forma de os conseguir ofende a crença de algumas partes da sociedade, particularmente religiosas, e, em alguns países, também as leis: as células estaminais são extraídas dos embriões, que se tornam inviáveis quando renunciam a este material.
+Rodada 8
+ Desde então, em várias partes do mundo, tem havido um choque moral e legal entre os acusados e os opositores deste tipo de pesquisa.
+Rodada 9
+ Pouco a pouco, com um grau maior ou menor de restrições, parece haver uma tendência para os países que são fortes, ou com uma estrutura mínima, na ciência, permitirem experiências com células genitoras (ver tabela à página 32).
+Rodada 10
+ Em março, o Presidente Lula ratificou a nova Lei da Biosegurança e expandiu as perspectivas de biotecnologia no país: ele autorizou estudos com células estaminais embrionárias humanas e a plantação e comercialização de organismos genéticamente modificados (OGM), duas linhas de pesquisa com investimentos previstos em 28,3 milhões de dólares rusos, de acordo com o anúncio do Ministro da Ciência e Tecnologia, Eduardo Campos.
+Rodada 11
+ O cardiologista José Eduardo Krieger, do Heart Institute (InCor), da Escola de Medicina da Universidade de São Paulo (USP), usa uma metáfora interessante para descrever a importância de encorajar a investigação nesta área.
+Rodada 12
+ "" As células embrionárias são as únicas que têm o hardware completo do computador biológico "", compara o investigador.
+Rodada 13
+ "As pesquisas vão agora tentar revelar o software específico, os botões certos, que orientam a formação dos diferentes tecidos."
+Rodada 14
+ Nos últimos anos, enquanto o trabalho com células estaminais embrionárias de origem humana permaneceu proibido, os cientistas brasilianos não esperavam com os braços cruzados.
+Rodada 15
+ Fizeram o que a legislação permitia: desenvolveram linhas de pesquisa com células estaminais animais e células estaminais humanas extraídas do tecido adulto, geralmente medula óssea e sangue do cordão do útero.
+Rodada 16
+ Muitos dos estudos envolveram biologia básica.
+Rodada 17
+ Isto envolve a intuição de tentar compreender e controlar, in vitro, os mecanismos de divisão e diferenciação das células estaminais e, em certos casos, envolveu gerar modelos de animais com algum tipo de lesão menor.
+Rodada 18
+ Outros mostraram uma característica mais aplicada, em que possíveis terapias baseadas em células estaminais adultas foram testadas em animais e humanos.
+Rodada 19
+ Não há prova irrefutable de que as células estaminais adultas podem ser tão flexíveis como os embriões.
+Rodada 20
+ No entanto, cada dia que passa, está a ser descoberto que eles podem ser extraídos de tecidos mais maduros do que se pensava - o gordura é uma das suas fontes - e eles se diferenciam dentro de uma gama maior de tecidos.
+Rodada 21
+ Talvez eles possam constituir a base para o tratamento de algumas doenças, como problemas cardíacos, ortopedicos e dentéticos.
+Rodada 22
+ Menos versátil que as embrionárias, as células estaminais adultas têm uma vantagem: parecem ser mais seguras.
+Rodada 23
+: Nas terapias experimentales, as células estaminais são injetadas nos doentes, e normalmente são retiradas dos próprios doentes.
+Rodada 24
+ Isto elimina o risco de que o material implantado seja rejeitado e reduz o número de outros problemas.
+Rodada 25
+ "" Muitos estudos mostram que, nos ratos, quando se injetam células estaminais embrionárias não diferenciadas, aparecem tumores "", diz Marco Antonio Zago, o coordinador do Centro de Terapia celular da Facultade de Medicina de Ribeirão Preto, da Universidade de São Paulo (USP).
+Rodada 26
+ "" Seria uma loucura inocular células embrionárias nos seres humanos, antes de aprendermos a differentiá-las "", diz a geneticista Mayana Zatz, a coordonadora do Centro de Estudios do Genoma Humano da USP, que está a investigar o uso da terapia celular em distrofias musculares (consulte a entrevista na página 12).
+Rodada 27
+ É por isso que nenhum grupo de investigação sério, aqui ou fora, está a pensar em introduzir, a curto prazo, uma dose de células estaminais embrionárias na nossa espécie.
+Rodada 28
+ Nos próximos dois ou três anos, os resultados mais encorajadores, em termos clínicos, devem vir de experiências com possíveis terapias baseadas em células estaminais adultas, seguindo um caminho mais prudente.
+Rodada 29
+ Há um precedente bem sucedido que justifica um otimismo moderado com esta abordagem.
+Rodada 30
+ De todas as promessas de terapia celular, apenas uma, por enquanto, tornou-se num procedimento médico que tornou-se rotina em hospitais líderes: o transplante de medula óssea, usado, durante 40 anos, para tratar leucemias, certos tipos de linfomas, e outros distúrbios do sangue.
+Rodada 31
+: No "" milagre "" do transplante, o "" cor "" sobre o qual quase ninguém costumava falar até há alguns anos atrás, é a população de células estaminais adultas presentes neste problema suave e esponjoso localizado no interior dos ossos.
+Rodada 32
+ Existem dois tipos de células estaminais no medula: as hemopoeticas, que geram células sanguíneas vermelhas (erytrocitos), células sanguíneas brancas e placas; e as mésenquimicas, capazes de originar tecidos diferentes, como ossos, cartilage, tendões, músculos e gordura.
+Rodada 33
+: Na área mais básica, o progresso pode vir de diferentes frentes: trabalho com células estaminais adultas, de origem humana ou animal, cultivadas em laboratório, ou implantadas em animais, ou até em humanos; estudos com células embrionárias humanas in vitro, ou injetadas em animais; e experiências com células embrionárias de animais.
+Rodada 34
+ Eis algumas linhas de pesquisa aplicada e elemental com células estaminais que são perseguidas por cientistas brasilianos.
+Rodada 35
+ Cardiologia - Junto com a Alemanha, o Brasil é um dos pontos de referência internacionais na investigação clínica que usa células estaminais do medula óssea dos próprios doentes para tratar os seus problemas cardíacos.
+Rodada 36
+ Em fevereiro, encantado com os resultados positivos de estudos piloto realizados com um pequeno número de doentes que sofrem de infarto cardíaco aguda, cardiomiopatia dilatada, insuficiência crónica e doença de Chagas, o Ministério da Saúde lançou um projecto de 13 milhões de dólares rusos para investigar, nos próximos três anos, a eficácia do emprego de células do medula contra estas desfunções que podem levar à insuficiência cardíaca.
+Rodada 37
+ Ambicioso, o chamado "" estudo multicentrico aleatório de terapia celular na cardiopatía "" será coordinado pelo Instituto Nacional de Cardiologia de Laranjeiras (INCL), em Rio de Janeiro, e contará com a participação de cerca de 30 universidades e hospitais do norte ao sul do país.
+Rodada 38
+ A nova abordagem será testada em 1200 doentes, divididos, de acordo com o problema cardíaco, em quatro grupos de 300 indivíduos.
+Rodada 39
+ Todos eles recebem o tratamento convencional do seu problema cardíaco e vão ser seguidos durante um ano.
+Rodada 40
+: Para medir os possíveis efeitos positivos da terapia celular, metade dos pacientes também será objeto de uma dose de placebo (un material inofensivo, sem qualquer efeito terapéutico), e metade, de uma injeção de células estaminais no coração.
+Rodada 41
+ O estudo será duplo cega: os médicos e os doentes não saberão quem tem recebido o que.
+Rodada 42
+ Para cada patologia, haverá um centro que coordina os estudos.
+Rodada 43
+ O INCL será responsável pelo trabalho com cardiomiopatia dilatada (o coração aumenta de tamanho e tem dificuldades em bombear o sangue).
+Rodada 44
+: InCor vai comandar os estudos com ischémia crónica do coração.
+Rodada 45
+ O Hospital Santa Izabel, de Salvador, em colaboração com a Fundação Oswaldo Cruz (Fiocruz) de Bahia, supervisará a pesquisa com os doentes de Chagas, sem precedentes no mundo.
+Rodada 46
+: O Instituto de Ciências Biomédicas da Universidade Federal de Rio de Janeiro (ICB/UFRJ), juntamente com o Hospital Pro-Cardio, vai liderar as experiências de infarto aguda do miocárdio.
+Rodada 47
+ Se, no final do estudo, alguma terapia celular é mais benéfica do que o tratamento disponível hoje para os problemas cardíacos, o procedimento vai ser adoptado pela rede hospitalaria pública.
+Rodada 48
+ “A partir de um ano e meio, deveríamos ter os primeiros resultados em relação à eficácia do uso de células estaminais da medula óssea para tratar um infarto”, calcula Antonio Carlos Campos de Carvalho, do INCL.
+Rodada 49
+ "Para as outras cardiopatías, deveríamos ter que esperar cerca de três anos."
+Rodada 50
+ Nos doentes com infarto aguda, cardiomiopatia dilatada e doença de Chagas, a terapia celular (ou o placebo) será administrada através de um cateter nas arterias coronarias.
+Rodada 51
+ Nas vítimas de ischémia crónica, pessoas que têm tido um infarto há mais de seis meses, mas continuam a ter problemas de irrigação no coração, as células estaminais vão ser introduzidas directamente no músculo cardíaco durante uma cirurgia para implantar uma transplante safína ou de bypass mammaria.
+Rodada 52
+: Há grandes expectativas quanto aos testes com doentes gravemente doentes da doença de Chagas que desenvolveram insuficiência cardíaca e que são candidatos a um transplante cardíaco.
+Rodada 53
+ Normalmente, a maioria destes doentes morre em menos de dois anos.
+Rodada 54
+ "Nos estudos prévios, morreram apenas dois dos 30 doentes em que injetámos células estaminais", diz Ricardo Ribeiro dos Santos, o coordinador do Fiocruz Tissue Bioengineering Millennium Institute em Salvador.
+Rodada 55
+ "Mas também não foi por causa da terapia."
+Rodada 56
+ De acordo com Santos, um grande número dos doentes de Chagas mostrou uma melhoria na qualidade de vida e nas funções cardíacas.
+Rodada 57
+ Há duas críticas sobre os estudos brasileiros com terapias celulares contra problemas cardíacos.
+Rodada 58
+ O primeiro problema: as experiências fizeram um progresso muito rápido, criando expectativas exageradas de sucesso para o público laico, antes de acabar com todo o trabalho com animais e descobrir a forma ideal de injetar células estaminais nos doentes.
+Rodada 59
+ “ Ninguém sabe qual é o melhor tipo de célula para ser usada nas terapias, nem qual é a técnica ideal para as administrar aos doentes”, diz o cardiologista Edimar Bocchi, de InCor, cujo trabalho com células estaminais adultas em doentes cardíacos não faz parte da mega-estudo do Ministério da Saúde.
+Rodada 60
+ A segunda crítica: os investigadores não conhecem os mecanismos que estão por detrás da possível melhoria cardíaca vistos nos estudos prévios.
+Rodada 61
+ Até agora, não há certeza se as células de medula óssea beneficiam o coração porque aumentam a sua vascularização, criam mais músculos cardíacos, ou removem células danificadas do coração.
+Rodada 62
+ "" Nós decidimos fazer testes em humanos apenas depois de trabalharmos com animais e de estarmos convencidos de que os riscos do uso de células estaminais são menores do que os benefícios "", pensa Radovan Borojevic, do ICB/UFRJ, um dos investigadores que dirige as pesquisas com células estaminais na cardiologia.
+Rodada 63
+ Seja como for, o trabalho brasileiro foi autorizado pelo Conselho Nacional de Ética na Investigação (Conep) e está a formar uma escola no estrangeiro.
+Rodada 64
+ O Texas Heart Institute recentemente começou um teste clínico com células estaminais do medula óssea, inspirado nos estudos brasileiros.
+Rodada 65
+ Treze pacientes foram dados a terapia alternativa, e os resultados são encorajadores.
+Rodada 66
+ Diabetes e doenças autoimunes – A eficácia do uso de células estaminais adultas para controlar distúrbios originais no sistema imunitário do doente está a ser agora testada no Brasil.
+Rodada 67
+ O grupo liderado pelo investigador Júlio Voltarelli, do Centro de Terapia celular da USP em Ribeirão Preto, tem, por exemplo, feito 30 transplantes de células estaminais da medula óssea em pessoas com esclerosis múltipla, 15 em vítimas de doenças reumaticas, e 5 em diabéticos de tipo 1 (que precisam de tomar insulina na sua vida diária).
+Rodada 68
+ Antes de ser administrada a terapia, administrada intravenalmente e com células previamente retiradas dos próprios doente, aqueles que participavam no estudo foram submetidos a sessões de química- ou radioterapia, para eliminar do organismo as células do sistema de defesa, responsáveis por libertar as doenças autoimunes.
+Rodada 69
+ "" Houve cinco mortes de pessoas com doenças reumaticas, e quatro por esclerosis múltiplas, como consequência de complicações, normalmente infeciosas, da terapia "", afirma Voltarelli.
+Rodada 70
+ "Não houve mortes entre os diabéticos."
+Rodada 71
+ Os doentes que sobreviveram melhoraram ou tinham as suas doenças estabilizadas, uma indicação de que as células estaminais podiam ter ajudado na reconstrução de um sistema imunitário mais saudável.
+Rodada 72
+ Agora, o grupo de Ribeirão Preto vai começar, em parceria com o Albert Einstein Hospital, em São Paulo, e a Universidade Federal de São Paulo (Unifesp), um projeto para a transplante de células estaminais adultas em pessoas com esclerosis lateral amyotrofica (una doença neurodegenerativa).
+Rodada 73
+ Dentistas - Tentes derivadas da cultivação de células estaminais adultas?
+Rodada 74
+ Pelo menos em animais, produzir um dente canino ou molar é quase uma realidade.
+Rodada 75
+ Em julho do ano passado, um par de dentistas da Universidade Federal de São Paulo (Unifesp), Silvio e Monica Duailibi, publicaram um artigo na revista científica Journal of Dental Research, n onde descreveram a formação de dentes primitivos, a seguir à cultivação de células estaminais extraídas dos dentes lácteos de leite de ratos com uma idade de 3 a 7 dias.
+Rodada 76
+ Os investigadores estimularam o crescimento das células num meio rico num biopolimero e implantaram-nas numa região muito vascularizada do abdomen dos animais.
+Rodada 77
+ Depois de três meses, começaram a formar-se coronas dentárias.
+Rodada 78
+ Antes deste estudo, um grupo de investigadores de estrangeiros já tinha conseguido a mesma proeza, exceto em porcos.
+Rodada 79
+ Em colaboração com cientistas do Forsyth Institute, em Boston, e do Massachusetts General Hospital, a experiência com os roedores foi feita durante um período em que os brasilianos estavam a estudar nos Estados Unidos, e ganhou patente para a equipa multinacional.
+Rodada 80
+ Hoje, de volta ao Brasil, os Duailibis têm conseguido resultados semelhantes nos laboratórios da Unifesp.
+Rodada 81
+ E não se pararam aí.
+Rodada 82
+ "" Fizemos crescer os dentes no osso de maxilar dos ratos, usando as células estaminais dos animais "", diz Monica, que deveria em breve publicar um artigo sobre o novo trabalho.
+Rodada 83
+ O próximo passo é tentar cultivar, ainda nos roedores, células adultas extraídas dos dentes humanos.
+Rodada 84
+ "" Vamos esgotar toda a pesquisa com animais antes de começar testes com seres humanos "", diz Silvio.
+Rodada 85
+ Neurologia – Alguns grupos de investigação no mundo produziram, em animais e in vitro, células nervosas de células estaminais, um feito que aumenta a esperança de um dia encontrar uma cura para as doenças neurodegenerativas, como a doença de Parkinson.
+Rodada 86
+ Na Suécia, os cientistas devolveram os sintomas do Parkinson usando uma matriz escasa e polémica de material biológico, células estaminais extraídas de fetos abortados, que têm a capacidade de se transformar em neurónios.
+Rodada 87
+ É por isso que a ciência procura outras fontes de células estaminais igualmente capazes de se transformar em células cerebrais.
+Rodada 88
+ Luis Eugênio Mello, de Unifesp, tentou produzir neurónios através da cultivação de células estaminais extraídas do sangue da medula umbilical.
+Rodada 89
+ Ele conseguiu, mas o número de neurónios obtidos, pequeno, não o agradou.
+Rodada 90
+ "" Isto não é um material bom para obter células nervosas "", diz Mello, que pretende trabalhar, a curto prazo, com uma espécie humana de células embrionárias importadas dos Estados Unidos.
+Rodada 91
+ A neurocientista Rosalia Mendez-Otero, da UFRJ, conta uma história semelhante.
+Rodada 92
+Ela tirou células estaminais neurais do cérebro de ratos e ratos e cultivá-las até se tornarem neurónios.
+Rodada 93
+ O processo, no entanto, foi muito lento.
+Rodada 94
+ "Leva 12 a 1q5 dias para as células dividirem e produzirem neurónios", comenta Rosalia.
+Rodada 95
+Com as células estaminais embrionárias, obter neurónios pode ser um processo mais rápido.
+Rodada 96
+ Numa linha de pesquisa mais aplicada, o cientista da UFRJ está a testar o uso de células da medula óssea para reverter os sintomas de um AVC.
+Rodada 97
+ O resultado com o primeiro doente foi bom.
+Rodada 98
+ "" Agora vamos testar a terapia noutras 25 pessoas "", explica Rosalia.
+Rodada 99
+ Investigação básica – Desde o final da última década, Lygia da Veiga Pereira, a chefe do Laboratório de Genética Molecular do Instituto de Biociências (IB) da USP, tem sido pioneira no país na criação de lignéias de células estaminais embrionárias de ratos.
+Rodada 100
+ Em 2001, baseado neste conhecimento, ela produziu os primeiros ratos transgénicos do Brasil, porcos de ensaio que tinham um gene modificado e que poderiam ser modelos animais para estudar doenças.
+Rodada 101
+ Tal como outros investigadores brasilianos, a Lygia aprendeu, em animais, a dominar algumas receitas químicas que conduzem o processo de diferenciação de células estaminais embrionárias.
+Rodada 102
+ "" Para inducir a produção de neurónios, adicionamos ácido retinóico ao meio de cultura "", ilustra o investigador da IB/USP.
+Rodada 103
+ "Para obter sangue, pomos algumas interleukins (a família de proteínas)."
+Rodada 104
+ Logicamente, o processo de cultura celular não é assim tão simples, mas hoje sabemos, pelo menos, que alguns ingredientes são essenciais para inducir as células estaminais a gerar certos tipos de tecido.
+Rodada 105
+ Antes do fim deste ano, a Lygia deveria começar a trabalhar com células estaminais embrionárias humanas importadas.
+Rodada 106
+ Em Ribeirão Preto, o grupo liderado por Dimas Covas, do Centro de Terapia celular da USP, já dominau uma boa parte do processo de transformação das células estaminais mesénquimas e hemopoeticas, os dois tipos principais de células genitora presentes no medula óssea humana, em vários tecidos, como ossos e sangue.
+Rodada 107
+ Também sabem como pegar em células mesenquimais de várias fontes.
+Rodada 108
+ “Vocês podem obter estas células de veias e artérias e do sangue da medula, ” explica Zago, o coordinador do centro.
+Rodada 109
+ Um dos objectivos principais dos seus estudos é mapear que genes são activados durante o processo de transformação das células estaminais do medula óssea em tecidos mais especializados.
+Rodada 110
+ A pesquisa básica é cara, dispendiosa e complicada.
+Rodada 111
+ Por vezes polémicos, como no caso das células estaminais extraídas de embriões humanos, ou sem os resultados esperados a priori (terapia genética, por exemplo, é uma promessa que ainda não foi cumprida).
+Rodada 112
+ Mas sem investimento na ciência, ninguém chegará a novos tratamentos.
+Rodada 113
+ Querem um exemplo em que vale a pena investir no progresso do conhecimento?
+Rodada 114
+ No mês passado, os cientistas da Universidade do Wisconsin, novamente eles, desenvolveram uma maneira de cultivar células estaminais embrionárias de origem humana, sem a necessidade de mantê-las em contacto com material biológico recolhido de ratos.
+Rodada 115
+ Um passo importante para produzir lignéias de células estaminais embrionárias não contaminadas por células animais, uma condição essencial para o seu uso nos seres humanos.
+Rodada 116
+ CELLS OF DISCORD
+Rodada 117
+ Alguns países criaram recentemente leis que definem as regras para a pesquisa com células estaminais extraídas de embriões humanos e a chamada clonagem terapéutica.
+Rodada 118
+ Desde o início de 2002, a pesquisa com células estaminais embrionárias especialmente criadas para este propósito tem sido autorizada.
+Rodada 119
+ O clonamento terapéutico também está autorizado, provando que usa embriões que tenham vivido 14 dias no máximo.
+Rodada 120
+ Duas equipas têm agora dado luz verde para clonar embriões humanos para fins terapéuticas.
+Rodada 121
+ A Coreia do Sul
+Rodada 122
+ Em fevereiro de 2004, uma equipa sud-coreana foi a primeira no mundo a clonar embriões humanos e a retirar células estaminais embriónicas deles.
+Rodada 123
+: No entanto, foi só no final do ano passado que o governo de Seul definiu oficialmente a sua política para o sector.
+Rodada 124
+ Foram aprovados estudos com embriões e clonagem terapéutica.
+Rodada 125
+ Japão
+Rodada 126
+ Embora não exista nenhuma lei que regule o assunto, em julho do ano passado o Ministério da Saúde autorizou pesquisas com células embrionárias e clonagem terapéutica.
+Rodada 127
+ O Brasil
+Rodada 128
+ A Lei da Biosegurança legaliza a pesquisa com células estaminais embrionárias extraídas de embriões excedentes, que não são usadas para fins reprodutivas por pares com problemas de infertilidade, a condición de serem congeladas durante três anos.
+Rodada 129
+: Tem de haver consentimento do casal que criou os embriões para que eles sejam deixados de lado para a ciência.
+Rodada 130
+ Embriões inviáveis para a reprodução humana também podem ser pesquisados.
+Rodada 131
+ A clonagem terapéutica é proibida.
+Rodada 132
+ Estados Unidos da América
+Rodada 133
+ Desde agosto de 2001, o Presidente George Bush reserva apenas fundos do orçamento federal para estudos feitos com as poucas lignéias de células estaminais embrionárias que foram criadas até então.
+Rodada 134
+ Mas os estados têm a autonomia para criarem as suas próprias leis, e as empresas privadas também podem financiar as pesquisas.
+Rodada 135
+ No ano passado, a Califórnia aprovou 3 mil milhões de dólares para estudos com células embrionárias e clonagem terapéutica.
+Rodada 136
+ França
+Rodada 137
+ Em agosto de 2004, uma revisação da lei sobre bioetica autorizava, durante um período de cinco anos, a pesquisa para começar com células estaminais embrionárias usando material excedente mantido em clínicas de reprodução artificial.
+Rodada 138
+ A clonagem terapéutica continua a ser proibida.
+Rodada 139
+ Alemanha
+Rodada 140
+ Autoriza a pesquisa com células embrionárias, a condición de que as lignéias estudadas tenham sido trazidas do estrangeiro e criadas antes do 1 de Janeiro de 2002.
+Rodada 141
+ É preciso pedir autorización para importar as lignéias.
+Rodada 142
+ Stritamente falando, a lei torna inviável realizar investigação nesta área.
+Rodada 143
+ Na prática, as pesquisas com células embrionárias não são autorizadas.

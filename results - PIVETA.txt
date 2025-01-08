@@ -1,0 +1,27 @@
+Marian MT (Helsinki-NLP/opus-mt-en-ROMANCE)
+
+Tempo de execução: 284.47079396247864 segundos
+Meteor: 0.7459608209946247
+Rouge: {'r': 0.7298836826210402, 'p': 0.7060391196603669, 'f': 0.717626385496852}
+BLEU: 0.5331392781880708
+
+Marian MT (Helsinki-NLP/opus-mt-tc-big-en-pt)
+
+Tempo de execução: 514.9412233829498 segundos
+Meteor: 0.7725493780611988
+Rouge: {'r': 0.7558695078731467, 'p': 0.7416948644744078, 'f': 0.7485241346762193}
+BLEU: 0.592539941136336
+
+T5 (unicamp-dl/translation-en-pt-t5)
+
+Tempo de execução: 705.1659457683563 segundos
+Meteor: 0.7399193877638596
+Rouge: {'r': 0.7211933651740535, 'p': 0.7174276726133276, 'f': 0.719016594386015}
+BLEU: 0.5597969897975276
+
+mBart (facebook/mbart-large-50-many-to-many-mmt)
+
+Tempo de execução: 1440.8246665000916 segundos
+Meteor: 0.6490726275258556
+Rouge: {'r': 0.6489636309892103, 'p': 0.6330349396930658, 'f': 0.6405772333227329}
+BLEU: 0.4181054351117772

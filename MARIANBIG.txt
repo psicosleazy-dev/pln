@@ -1,0 +1,287 @@
+Marian MT big-en-pt
+Rodada 1
+O Projeto de Lei sobre Biossegurança vai impulsionar a pesquisa brasileira, que já era forte na área
+Rodada 2
+ Marcos Pivetta
+Rodada 3
+ Em 1998, a equipe liderada pelo biólogo James Thomson, da Universidade de Wisconsin, nos Estados Unidos, isolou e desenvolveu, pela primeira vez em laboratório, uma linhagem de células-tronco extraídas de embriões humanos.
+Rodada 4
+ Foi um feito técnico e um problema ético para a pesquisa biológica.
+Rodada 5
+ Um feito, porque os estudos com essas células podem, em teoria, levar a melhores tratamentos ou à cura de uma lista quase interminável de doenças.
+Rodada 6
+ Se devidamente cultivadas, as células-tronco embrionárias, e apenas estas, podem originar todos os tecidos de um organismo, cerca de 220 tipos distintos de células que seriam a matéria-prima para novas terapias.
+Rodada 7
+ Um problema, porque a maneira de obtê-los ofende a crença de partes da sociedade, em particular as religiosas e, em alguns países, as leis também: as células-tronco são retiradas dos embriões, que se tornam inviáveis quando abandonam esse material.
+Rodada 8
+ Desde então, em várias partes do mundo, tem havido um confronto moral e jurídico entre os réus e os oponentes desse tipo de pesquisa.
+Rodada 9
+ Pouco a pouco, com um maior ou menor grau de restrições, parece haver uma tendência para os países que são fortes, ou minimamente estruturados, na ciência para permitir experiências com células genitoras (ver tabela na página 32).
+Rodada 10
+: Em março, o presidente Lula sancionou a nova Lei de Biossegurança e ampliou as perspectivas de biotecnologia no país: autorizou estudos com células-tronco embrionárias humanas e o plantio e comercialização de organismos geneticamente modificados (OGMs), duas linhas de pesquisa com investimentos programados de R$ 28,3 milhões, de acordo com o anúncio feito pelo ministro da Ciência e Tecnologia, Eduardo Campos.
+Rodada 11
+O cardiologista José Eduardo Krieger, do Instituto do Coração (InCor), da Faculdade de Medicina da Universidade de São Paulo (USP), usa uma metáfora interessante para descrever a importância de incentivar a pesquisa nessa área.
+Rodada 12
+ “As células embrionárias são as únicas que têm o hardware completo do computador biológico”, compara o pesquisador.
+Rodada 13
+ “As pesquisas agora vão tentar revelar o software específico, os botões certos, que orientam a formação dos vários tecidos.”
+Rodada 14
+ Nos últimos anos, enquanto o trabalho com células-tronco embrionárias de origem humana permaneceu proibido, os cientistas brasileiros não esperaram com os braços cruzados.
+Rodada 15
+ Eles fizeram o que a legislação permitia: desenvolveram linhas de pesquisa com células-tronco animais e células-tronco humanas removidas do tecido adulto, geralmente da medula óssea e do sangue do cordão umbilical.
+Rodada 16
+ Uma boa parte dos estudos envolveu biologia básica.
+Rodada 17
+ Isso envolve a intuição de tentar entender e controlar, in vitro, os mecanismos de divisão e diferenciação das células-tronco e, em certos casos, envolveu a geração de modelos de animais com algum tipo de lesão menor.
+Rodada 18
+ Outros mostraram uma característica mais aplicada, na qual possíveis terapias baseadas em células-tronco adultas foram testadas em animais e humanos.
+Rodada 19
+ Não há evidências irrefutáveis de que as células-tronco adultas possam ser tão flexíveis quanto os embriões.
+Rodada 20
+ No entanto, a cada dia que passa, está sendo descoberto que eles podem ser extraídos de tecidos mais maduros do que se pensava - a gordura é uma de suas fontes - e eles se diferenciam dentro de uma ampla gama de tecidos.
+Rodada 21
+: Talvez eles possam muito bem formar a base para o tratamento de algumas doenças, como problemas cardíacos, ortopédicos e dentários.
+Rodada 22
+ Menos versáteis que as embrionárias, as células-tronco adultas têm uma vantagem: parecem mais seguras.
+Rodada 23
+ Em terapias experimentais, as células-tronco são injetadas nos pacientes e geralmente são retiradas dos próprios pacientes.
+Rodada 24
+ Isso elimina o risco de o material implantado ser rejeitado e reduz a ocorrência de outros problemas.
+Rodada 25
+ “Muitos estudos mostram que, em camundongos, quando células-tronco embrionárias indiferenciadas são injetadas, tumores aparecem”, diz Marco Antonio Zago, coordenador do Centro de Terapia Celular da Faculdade de Medicina de Ribeirão Preto, da Universidade de São Paulo (USP).
+Rodada 26
+ “Seria loucura inocular células embrionárias em humanos, antes de aprendermos a diferenciá-las”, diz a geneticista Mayana Zatz, coordenadora do Centro de Estudos do Genoma Humano da USP, que está pesquisando o uso da terapia celular em distrofias musculares (veja a entrevista na página 12).
+Rodada 27
+: É por isso que nenhum grupo de pesquisa sério, aqui ou no exterior, está cogitando injetar, a curto prazo, uma dose de células-tronco embrionárias em nossa espécie.
+Rodada 28
+ Nos próximos dois ou três anos, os resultados mais animadores, em termos clínicos, devem vir de experimentos com possíveis terapias baseadas em células-tronco adultas, trilhando um caminho mais cauteloso.
+Rodada 29
+ Há um precedente bem sucedido que justifica o otimismo moderado com esta abordagem.
+Rodada 30
+ De todas as promessas da terapia celular, apenas uma, por enquanto, tornou-se um procedimento médico que se tornou rotina nos principais hospitais: o transplante de medula óssea, usado, há 40 anos, para tratar leucemias, certos tipos de linfomas e outros distúrbios sanguíneos.
+Rodada 31
+ No “milagre” do transplante, o “santo” sobre o qual quase ninguém costumava falar até alguns anos atrás, é a população de células-tronco adultas existentes nesta questão macia e esponjosa localizada no interior dos ossos.
+Rodada 32
+ Existem dois tipos de células-tronco na medula: as hemopoiéticas, que geram os glóbulos vermelhos (eritrócitos), os glóbulos brancos e as plaquetas; e as mesenquimais, capazes de originar tecidos distintos, como ossos, cartilagem, tendões, músculos e gordura.
+Rodada 33
+ Na área mais básica, o progresso pode vir das mais variadas frentes: trabalho com células-tronco adultas, de origem humana ou animal, cultivadas em laboratório ou implantadas em animais, ou mesmo no homem; estudos com células embrionárias humanas in vitro ou injetadas em animais; e experimentos com células embrionárias de animais.
+Rodada 34
+ Algumas linhas de pesquisa aplicada e elementar com células-tronco perseguidas por cientistas brasileiros estão descritas abaixo.
+Rodada 35
+ Cardiologia – Junto com a Alemanha, o Brasil é um dos pontos de referência internacional em pesquisa clínica que utiliza células-tronco da medula óssea dos próprios pacientes para tratar seus problemas cardíacos.
+Rodada 36
+ Em fevereiro, encantado com os resultados positivos de estudos-piloto realizados com um pequeno número de pacientes que sofrem de infarto agudo do miocárdio, cardiomiopatia dilatada, isquemia crônica e doença de Chagas, o Ministério da Saúde lançou um projeto de R$ 13 milhões para pesquisar, nos próximos três anos, a eficácia do emprego de células da medula contra esses defeitos que podem levar à insuficiência cardíaca.
+Rodada 37
+ Ambicioso, o chamado Estudo Multicêntrico Aleatório de Terapia Celular em Cardiopatia será coordenado pelo Instituto Nacional de Cardiologia de Laranjeiras (INCL), no Rio de Janeiro, e contará com a participação de cerca de 30 universidades e hospitais de norte a sul do país.
+Rodada 38
+ A nova abordagem será testada em 1.200 pacientes, divididos, de acordo com seu problema cardíaco, em quatro grupos de 300 indivíduos.
+Rodada 39
+ Todos eles receberão o tratamento convencional para seu problema cardíaco e serão acompanhados por um ano.
+Rodada 40
+ Para avaliar os possíveis efeitos benéficos da terapia celular, metade dos pacientes também será o objeto de uma dose de um placebo (um material inócuo, sem qualquer efeito terapêutico) e metade de uma injeção de células-tronco no coração.
+Rodada 41
+ O estudo será duplo-cego: médicos e pacientes não saberão quem recebeu o quê.
+Rodada 42
+ Para cada patologia, haverá um centro coordenando os estudos.
+Rodada 43
+ O INCL será responsável pelo trabalho com cardiomiopatia dilatada (o coração aumenta de tamanho e tem dificuldade em bombear o sangue).
+Rodada 44
+ InCor estará comandando os estudos com isquemia crônica do coração.
+Rodada 45
+ O Hospital Santa Izabel, de Salvador, em colaboração com a Fundação Oswaldo Cruz (Fiocruz) da Bahia, supervisionará a pesquisa com sofredores de Chagas, sem precedentes no mundo.
+Rodada 46
+ O Instituto de Ciências Biomédicas da Universidade Federal do Rio de Janeiro (ICB/UFRJ), juntamente com o Hospital Pró-Cardíaco, liderará os experimentos sobre infarto agudo do miocárdio.
+Rodada 47
+ Se, no final do estudo, alguma terapia celular for mais benéfica do que o tratamento disponível hoje para os problemas do coração, o procedimento passará a ser adotado pela rede hospitalar pública.
+Rodada 48
+ “Daqui a um ano e meio, devemos ter os primeiros resultados em relação à eficácia do uso de células-tronco da medula óssea para tratar o infarto”, avalia Antonio Carlos Campos de Carvalho, do INCL.
+Rodada 49
+ “Para as outras cardiopatias, devemos ter que esperar cerca de três anos.”
+Rodada 50
+ Nos pacientes com infarto agudo, cardiomiopatia dilatada e doença de Chagas, a terapia celular (ou placebo) será administrada por meio de um cateter nas artérias coronárias.
+Rodada 51
+ Nas vítimas de isquemia crônica, pessoas que tiveram um infarto há mais de seis meses, mas continuam a ter problemas de irrigação no coração, as células-tronco serão introduzidas diretamente no músculo cardíaco durante uma cirurgia para implantar um enxerto de bypass safeno ou mamário.
+Rodada 52
+ Há uma grande expectativa em relação aos testes com pacientes gravemente doentes da doença de Chagas que desenvolveram insuficiência cardíaca e são candidatos a um transplante cardíaco.
+Rodada 53
+ Normalmente, a maioria desses pacientes morre em menos de dois anos.
+Rodada 54
+ “Em estudos preliminares, apenas dois dos 30 pacientes em que injetamos células-tronco morreram”, diz Ricardo Ribeiro dos Santos, coordenador do Instituto do Milênio de Bioengenharia de Tecidos da Fiocruz, em Salvador.
+Rodada 55
+: "Mas também não foi por causa da terapia."
+Rodada 56
+ Segundo Santos, um bom número dos chagásicos apresentou melhora na qualidade de vida e nas funções cardíacas.
+Rodada 57
+ Duas críticas estão sendo feitas aos estudos brasileiros com terapias celulares contra problemas cardíacos.
+Rodada 58
+ O primeiro obstáculo: os experimentos fizeram um progresso muito rápido, criando expectativas exageradas de sucesso para o público leigo, antes de ter esgotado todo o trabalho com animais e descoberto a maneira ideal de injetar células-tronco nos doentes.
+Rodada 59
+ “Ninguém sabe qual é o melhor tipo de célula para uso nas terapias, nem qual é a técnica ideal para administrá-las aos pacientes”, diz o cardiologista Edimar Bocchi, do InCor, cujo trabalho com células-tronco adultas em pacientes cardíacos não faz parte do megaestudo do Ministério da Saúde.
+Rodada 60
+ A segunda crítica: os pesquisadores não conhecem os mecanismos que estão por trás da possível melhora cardíaca observada nos estudos preliminares.
+Rodada 61
+ Até agora, não há certeza se as células da medula óssea beneficiam o coração porque aumentam sua vascularização, criam mais músculo cardíaco ou removem células danificadas do coração.
+Rodada 62
+ “Nós só decidimos fazer testes em humanos depois de termos trabalhado com animais e estarmos convencidos de que os riscos do emprego de células-tronco são menores do que os benefícios”, pondera Radovan Borojevic, do ICB/UFRJ, um dos pesquisadores que lidera as pesquisas com células-tronco em cardiologia.
+Rodada 63
+ Seja como for, o trabalho brasileiro foi autorizado pelo Conselho Nacional de Ética em Pesquisa (Conep) e está formando uma escola no exterior.
+Rodada 64
+ O Texas Heart Institute iniciou recentemente um teste clínico com células-tronco da medula óssea, inspirado nos estudos brasileiros.
+Rodada 65
+ Treze pacientes receberam a terapia alternativa, e os resultados são animadores.
+Rodada 66
+ Diabetes e doenças auto-imunes – A eficácia do emprego de células-tronco adultas para o controle de distúrbios originários do próprio sistema imunológico dos pacientes está sendo testada no Brasil.
+Rodada 67
+O grupo liderado pelo pesquisador Júlio Voltarelli, do Centro de Terapia Celular da USP em Ribeirão Preto, realizou, por exemplo, 30 transplantes de células-tronco da medula óssea em pessoas com esclerose múltipla, 15 em vítimas de doenças reumáticas e 5 em diabéticos tipo 1 (que precisam tomar insulina em suas vidas diárias).
+Rodada 68
+ Antes de receber a terapia, administrada por via intravenosa e com células previamente retiradas dos próprios pacientes, os participantes do estudo foram submetidos a sessões de quimioterapia ou radioterapia, para eliminar do organismo as células do sistema de defesa, responsáveis pelo desencadeamento das doenças autoimunes.
+Rodada 69
+ “Houve cinco mortes de pessoas com doenças reumáticas e quatro de esclerose múltipla, como consequência de complicações, geralmente infecciosas, da terapia”, afirma Voltarelli.
+Rodada 70
+ “Não houve mortes entre os diabéticos.”
+Rodada 71
+ Os pacientes que sobreviveram melhoraram ou tiveram suas doenças estabilizadas, uma indicação de que as células-tronco podem ter ajudado na reconstituição de um sistema imunológico mais saudável.
+Rodada 72
+ Agora, o grupo de Ribeirão Preto vai começar, em parceria com o Hospital Albert Einstein, em São Paulo, e a Universidade Federal de São Paulo (Unifesp), um projeto de transplante de células-tronco adultas em pessoas com esclerose lateral amiotrófica (uma doença neurodegenerativa).
+Rodada 73
+ Odontologia – Dentes derivados do cultivo de células-tronco adultas?
+Rodada 74
+ Pelo menos em animais, produzir um dente canino ou molar é quase uma realidade.
+Rodada 75
+ Em julho do ano passado, dois dentistas da Universidade Federal de São Paulo (Unifesp), Silvio e Monica Duailibi, publicaram um artigo na revista científica Journal of Dental Research, no qual descreveram a formação de dentes primitivos, seguindo o cultivo de células-tronco retiradas dos dentes de leite de ratos com idade de 3 a 7 dias.
+Rodada 76
+ Os pesquisadores promoveram o crescimento das células em um meio rico em biopolímero e as implantaram em uma região muito vascularizada do abdômen dos animais.
+Rodada 77
+ Depois de três meses, as coroas dentárias começaram a se formar lá.
+Rodada 78
+ Antes deste estudo, um grupo de pesquisadores do exterior já havia alcançado o mesmo feito, exceto em porcos.
+Rodada 79
+ Executado em colaboração com cientistas do Instituto Forsyth, em Boston, e do Hospital Geral de Massachusetts, o experimento com os roedores foi feito durante um período em que os brasileiros estudavam nos Estados Unidos, e rendeu à equipe multinacional uma patente.
+Rodada 80
+ Hoje, de volta ao Brasil, os Duailibis alcançaram resultados semelhantes nos laboratórios da Unifesp.
+Rodada 81
+ E eles não pararam por aí.
+Rodada 82
+ “Fizemos os dentes crescerem na mandíbula de ratos, usando as células-tronco dos animais”, diz Monica, que deve publicar em breve um artigo sobre o novo trabalho.
+Rodada 83
+ O próximo passo é tentar cultivar, ainda em roedores, células adultas retiradas de dentes humanos.
+Rodada 84
+ “Vamos esgotar toda a pesquisa com animais antes de iniciar testes com seres humanos”, diz Silvio.
+Rodada 85
+Neurologia – Alguns grupos de pesquisa no mundo produziram, em animais e in vitro, células nervosas de células-tronco, um feito que aumenta a esperança de um dia encontrar uma cura para as doenças neurodegenerativas, como a doença de Parkinson.
+Rodada 86
+ Na Suécia, os cientistas reverteram os sintomas do Parkinson usando uma matriz escassa e polêmica de material biológico, células-tronco retiradas de fetos abortados, que têm a capacidade de se transformar em neurônios.
+Rodada 87
+ É por isso que a ciência está buscando outras fontes de células-tronco igualmente capazes de se transformar em células cerebrais.
+Rodada 88
+ Luis Eugênio Mello, da Unifesp, tentou produzir neurônios a partir do cultivo de células-tronco retiradas do sangue do cordão umbilical.
+Rodada 89
+ Ele conseguiu, mas o número de neurônios obtidos, pequenos, não o exultou.
+Rodada 90
+ “Este não é um bom material para obter células nervosas”, diz Mello, que pretende trabalhar, a curto prazo, com uma cepa humana de células embrionárias importadas dos Estados Unidos.
+Rodada 91
+ A neurocientista Rosalia Mendez-Otero, da UFRJ, conta uma história semelhante.
+Rodada 92
+ Ela tomou células-tronco neurais do cérebro de ratos e camundongos e as cultivou até se tornarem neurônios.
+Rodada 93
+ O processo, no entanto, foi muito lento.
+Rodada 94
+ “Demoraria de 12 a 1q5 dias para as células dividirem e produzirem neurônios”, comenta Rosalia.
+Rodada 95
+ Com as células-tronco embrionárias, a obtenção de neurônios pode ser um processo mais rápido.
+Rodada 96
+ Em uma linha de pesquisa mais aplicada, o cientista da UFRJ está testando o uso de células da medula óssea para reverter os sintomas de um derrame.
+Rodada 97
+ O resultado com o primeiro paciente foi bom.
+Rodada 98
+ “Agora vamos testar a terapia em outras 25 pessoas”, explica Rosalia.
+Rodada 99
+ Pesquisa básica – Desde o final da última década, Lygia da Veiga Pereira, chefe do Laboratório de Genética Molecular do Instituto de Biociências (IB) da USP, tem sido pioneira no país no estabelecimento de linhagens de células-tronco embrionárias de camundongos.
+Rodada 100
+ Em 2001, ancorada nesse conhecimento, ela produziu os primeiros camundongos transgênicos brasileiros, cobaias que tinham um gene modificado e que poderiam ser modelos animais para o estudo de doenças.
+Rodada 101
+ Como outros pesquisadores brasileiros, Lygia aprendeu, em animais, a dominar algumas receitas químicas que orientam o processo de diferenciação de células-tronco embrionárias.
+Rodada 102
+ “Para induzir a produção de neurônios, adicionamos ácido retinoico ao meio de cultura”, exemplifica o pesquisador do IB/USP.
+Rodada 103
+ “Para obter sangue, colocamos algumas interleucinas (uma família de proteínas).”
+Rodada 104
+ Logicamente, o processo de cultura celular não é tão simples assim, mas hoje se sabe pelo menos que alguns ingredientes são indispensáveis para induzir as células-tronco a gerar certos tipos de tecido.
+Rodada 105
+ Antes do final deste ano, Lygia deve começar a trabalhar com células-tronco embrionárias humanas importadas.
+Rodada 106
+ Em Ribeirão Preto, o grupo liderado por Dimas Covas, do Centro de Terapia Celular da USP, já dominou boa parte do processo de transformação de células-tronco mesenquimais e hemopoiéticas, os dois principais tipos de células genitoras presentes na medula óssea humana, em vários tecidos, como ossos e sangue.
+Rodada 107
+ Eles também sabem como tomar células mesenquimais de várias fontes.
+Rodada 108
+ “Você pode obter essas células de veias e artérias e do sangue do cordão umbilical”, explica Zago, coordenador do centro.
+Rodada 109
+ Um dos principais objetivos de seus estudos é mapear quais genes são ativados durante o processo de transformação das células-tronco da medula óssea em tecidos mais especializados.
+Rodada 110
+ A pesquisa básica é cara, demorada e intrincada.
+Rodada 111
+ Como tempos polêmicos, como no caso das células-tronco retiradas de embriões humanos, ou sem os resultados esperados a priori (a terapia genética, por exemplo, é uma promessa que ainda não foi cumprida).
+Rodada 112
+ Mas sem investimento em ciência, ninguém vai chegar a novos tratamentos.
+Rodada 113
+ Você quer um exemplo de que vale a pena investir no progresso do conhecimento?
+Rodada 114
+ No mês passado, cientistas da Universidade de Wisconsin, eles novamente, desenvolveram uma maneira de cultivar células-tronco embrionárias de origem humana, sem a necessidade de mantê-las em contato com material biológico retirado de camundongos.
+Rodada 115
+ Um passo importante para a produção de linhagens de células-tronco embrionárias não contaminadas por células animais, uma condição indispensável para seu uso em humanos.
+Rodada 116
+ CÉLULAS DE DISCORD
+Rodada 117
+ Alguns países criaram recentemente leis que estabelecem as regras para a pesquisa com células-tronco retiradas de embriões humanos e a chamada clonagem terapêutica.
+Rodada 118
+ Desde o início de 2002, pesquisas com células-tronco embrionárias especialmente criadas para esse fim foram permitidas.
+Rodada 119
+ A clonagem terapêutica também é autorizada, provando que ela usa embriões que viveram no máximo 14 dias.
+Rodada 120
+ Duas equipes já receberam luz verde para clonar embriões humanos para fins terapêuticos.
+Rodada 121
+ Coreia do Sul
+Rodada 122
+ Em fevereiro de 2004, uma equipe sul-coreana foi a primeira do mundo a clonar embriões humanos e a retirar células-tronco embrionárias deles.
+Rodada 123
+ No entanto, foi apenas no final do ano passado que o governo de Seul definiu oficialmente sua política para o setor.
+Rodada 124
+ Foram aprovadas pesquisas com embriões e clonagem terapêutica.
+Rodada 125
+ Japão
+Rodada 126
+ Embora não haja nenhuma lei que regule o assunto, em julho do ano passado o Ministério da Saúde autorizou pesquisas com células embrionárias e clonagem terapêutica.
+Rodada 127
+ Brasil
+Rodada 128
+ A Lei sobre Biossegurança legaliza a pesquisa com células-tronco embrionárias retiradas de embriões excedentes, não usadas para fins reprodutivos por casais com problemas de infertilidade, desde que estejam congeladas há três anos.
+Rodada 129
+ Tem que haver o consentimento do casal que gerou os embriões para que eles sejam reservados para a ciência.
+Rodada 130
+ Os embriões inviáveis para a reprodução humana também podem ser pesquisados.
+Rodada 131
+ A clonagem terapêutica é proibida.
+Rodada 132
+ Estados Unidos
+Rodada 133
+ Desde agosto de 2001, o presidente George Bush apenas reserva fundos orçamentários federais para estudos realizados com as poucas linhagens de células-tronco embrionárias que haviam sido criadas até essa data.
+Rodada 134
+ Mas os estados têm autonomia para criar suas próprias leis, e a iniciativa privada também pode financiar as pesquisas.
+Rodada 135
+ No ano passado, a Califórnia aprovou US$ 3 bilhões para estudos com células embrionárias e clonagem terapêutica.
+Rodada 136
+ França
+Rodada 137
+ Em agosto de 2004, uma revisão da lei sobre bioética autorizou, por um período de cinco anos, a pesquisa para começar com células-tronco embrionárias usando material excedente mantido em clínicas de reprodução artificial.
+Rodada 138
+ A clonagem terapêutica continua a ser proibida.
+Rodada 139
+ Alemanha
+Rodada 140
+ Autoriza pesquisas com células embrionárias, desde que as linhagens estudadas tenham sido trazidas do exterior e criadas antes de 1o de janeiro de 2002.
+Rodada 141
+ A autorização deve ser solicitada para importar as linhagens.
+Rodada 142
+ Estritamente falando, a lei torna inviável a realização de pesquisas nesta área.
+Rodada 143
+ Na prática, pesquisas com células embrionárias não são autorizadas.

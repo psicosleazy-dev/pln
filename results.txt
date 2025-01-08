@@ -1,5 +1,4 @@
 Marian MT (Helsinki-NLP/opus-mt-en-ROMANCE)
-40 sentences
 Rodada 1
 Input: >>pt_BR<< The Bill on Biosafety is going to boost Brazilian research, which was already strong in the area
 Target: A Lei de Biossegurança vai impulsionar a pesquisa nacional, que já era forte na área
@@ -572,7 +571,7 @@ Rodada 143
 Input: >>pt_BR<< In practice, researches with embryonic cells are not authorized.
 Target: Na prática, as pesquisas com células embrionárias não estão autorizadas.
 Prediction: Na prática, pesquisas com células embrionárias não são autorizadas.
-Tempo de execução: 985.5273327827454 segundos
+Tempo de execução: 148.47260808944702 segundos
 Bloco 1 - Meteor Score: 0.6688020047775323
 Bloco 2 - Meteor Score: 0.7946459302459404
 Bloco 3 - Meteor Score: 0.7701471375020132
@@ -582,6 +581,15 @@ Bloco 6 - Meteor Score: 0.7408116364023675
 Bloco 7 - Meteor Score: 0.8149936461969968
 Bloco 8 - Meteor Score: 0.6294268360240581
 Meteor: 0.7459608209946247
+Bloco 1 - Rouge Score: {'r': 0.6542372881355932, 'p': 0.5920245398773006, 'f': 0.6215780948514292}
+Bloco 2 - Rouge Score: {'r': 0.7473118279569892, 'p': 0.7453083109919572, 'f': 0.7463087198322239}
+Bloco 3 - Rouge Score: {'r': 0.8035714285714286, 'p': 0.7731958762886598, 'f': 0.7880910633030815}
+Bloco 4 - Rouge Score: {'r': 0.7398119122257053, 'p': 0.7261538461538461, 'f': 0.7329192496588192}
+Bloco 5 - Rouge Score: {'r': 0.7541666666666667, 'p': 0.7269076305220884, 'f': 0.7402862935702009}
+Bloco 6 - Rouge Score: {'r': 0.7620967741935484, 'p': 0.7297297297297297, 'f': 0.7455621251798684}
+Bloco 7 - Rouge Score: {'r': 0.7916666666666666, 'p': 0.7687861271676301, 'f': 0.780058646027468}
+Bloco 8 - Rouge Score: {'r': 0.5862068965517241, 'p': 0.5862068965517241, 'f': 0.5862068915517241}
+Rouge: {'r': 0.7298836826210402, 'p': 0.7060391196603669, 'f': 0.717626385496852}
 Bloco 1 - BLEU Score: 0.4336870853265183
 Bloco 2 - BLEU Score: 0.595123590162392
 Bloco 3 - BLEU Score: 0.5925485848558885
@@ -592,7 +600,6 @@ Bloco 7 - BLEU Score: 0.624027201173348
 Bloco 8 - BLEU Score: 0.31818246779032233
 BLEU: 0.5331392781880708
 Marian MT (Helsinki-NLP/opus-mt-tc-big-en-pt)
-40 sentences
 Rodada 1
 Input: The Bill on Biosafety is going to boost Brazilian research, which was already strong in the area
 Target: A Lei de Biossegurança vai impulsionar a pesquisa nacional, que já era forte na área
@@ -1165,7 +1172,7 @@ Rodada 143
 Input: In practice, researches with embryonic cells are not authorized.
 Target: Na prática, as pesquisas com células embrionárias não estão autorizadas.
 Prediction: Na prática, pesquisas com células embrionárias não são autorizadas.
-Tempo de execução: 1584.9499802589417 segundos
+Tempo de execução: 259.4208035469055 segundos
 Bloco 1 - Meteor Score: 0.6958735745133366
 Bloco 2 - Meteor Score: 0.7913823338054327
 Bloco 3 - Meteor Score: 0.8227305612570857
@@ -1175,6 +1182,15 @@ Bloco 6 - Meteor Score: 0.7634003811184037
 Bloco 7 - Meteor Score: 0.8374819216817359
 Bloco 8 - Meteor Score: 0.6312251984126984
 Meteor: 0.7725493780611988
+Bloco 1 - Rouge Score: {'r': 0.6983050847457627, 'p': 0.6358024691358025, 'f': 0.6655896557541087}
+Bloco 2 - Rouge Score: {'r': 0.7553763440860215, 'p': 0.7533512064343163, 'f': 0.7543624111073917}
+Bloco 3 - Rouge Score: {'r': 0.8285714285714286, 'p': 0.8027681660899654, 'f': 0.8154657243509874}
+Bloco 4 - Rouge Score: {'r': 0.7962382445141066, 'p': 0.7863777089783281, 'f': 0.7912772535671723}
+Bloco 5 - Rouge Score: {'r': 0.8083333333333333, 'p': 0.8049792531120332, 'f': 0.8066528016528284}
+Bloco 6 - Rouge Score: {'r': 0.782258064516129, 'p': 0.7607843137254902, 'f': 0.7713717643846663}
+Bloco 7 - Rouge Score: {'r': 0.7916666666666666, 'p': 0.7823529411764706, 'f': 0.7869822435208852}
+Bloco 8 - Rouge Score: {'r': 0.5862068965517241, 'p': 0.6071428571428571, 'f': 0.5964912230717143}
+Rouge: {'r': 0.7558695078731467, 'p': 0.7416948644744078, 'f': 0.7485241346762193}
 Bloco 1 - BLEU Score: 0.5263256165311357
 Bloco 2 - BLEU Score: 0.6448180116394435
 Bloco 3 - BLEU Score: 0.6589979320720403
@@ -1185,7 +1201,6 @@ Bloco 7 - BLEU Score: 0.6483876010162859
 Bloco 8 - BLEU Score: 0.32769089646089533
 BLEU: 0.592539941136336
 T5 (unicamp-dl/translation-en-pt-t5)
-40 sentences
 Rodada 1
 Input: translate English to Portuguese: The Bill on Biosafety is going to boost Brazilian research, which was already strong in the area
 Target: A Lei de Biossegurança vai impulsionar a pesquisa nacional, que já era forte na área
@@ -1758,7 +1773,7 @@ Rodada 143
 Input: translate English to Portuguese: In practice, researches with embryonic cells are not authorized.
 Target: Na prática, as pesquisas com células embrionárias não estão autorizadas.
 Prediction: Na prática, as pesquisas com células embrionárias não são autorizadas.
-Tempo de execução: 1895.0657930374146 segundos
+Tempo de execução: 375.271568775177 segundos
 Bloco 1 - Meteor Score: 0.6657576883772621
 Bloco 2 - Meteor Score: 0.7780726455712816
 Bloco 3 - Meteor Score: 0.7497306615365131
@@ -1768,6 +1783,15 @@ Bloco 6 - Meteor Score: 0.730564628240645
 Bloco 7 - Meteor Score: 0.8052666114518603
 Bloco 8 - Meteor Score: 0.6894586894586895
 Meteor: 0.7399193877638596
+Bloco 1 - Rouge Score: {'r': 0.6338983050847458, 'p': 0.5807453416149069, 'f': 0.606158828072784}
+Bloco 2 - Rouge Score: {'r': 0.7365591397849462, 'p': 0.7425474254742548, 'f': 0.7395411555938742}
+Bloco 3 - Rouge Score: {'r': 0.7964285714285714, 'p': 0.7770034843205574, 'f': 0.7865961149302153}
+Bloco 4 - Rouge Score: {'r': 0.7115987460815048, 'p': 0.7183544303797469, 'f': 0.7149606249213716}
+Bloco 5 - Rouge Score: {'r': 0.7625, 'p': 0.75, 'f': 0.7561983421077795}
+Bloco 6 - Rouge Score: {'r': 0.7459677419354839, 'p': 0.7283464566929134, 'f': 0.7370517878293995}
+Bloco 7 - Rouge Score: {'r': 0.7619047619047619, 'p': 0.7757575757575758, 'f': 0.7687687637691746}
+Bloco 8 - Rouge Score: {'r': 0.6206896551724138, 'p': 0.6666666666666666, 'f': 0.6428571378635205}
+Rouge: {'r': 0.7211933651740535, 'p': 0.7174276726133276, 'f': 0.719016594386015}
 Bloco 1 - BLEU Score: 0.4524829449405841
 Bloco 2 - BLEU Score: 0.6091480539817338
 Bloco 3 - BLEU Score: 0.5794756803347842
@@ -1778,7 +1802,6 @@ Bloco 7 - BLEU Score: 0.6223525356949422
 Bloco 8 - BLEU Score: 0.4760004974942865
 BLEU: 0.5597969897975276
 mBart (facebook/mbart-large-50-many-to-many-mmt)
-40 sentences
 Rodada 1
 Input: The Bill on Biosafety is going to boost Brazilian research, which was already strong in the area
 Target: A Lei de Biossegurança vai impulsionar a pesquisa nacional, que já era forte na área
@@ -2351,7 +2374,7 @@ Rodada 143
 Input: In practice, researches with embryonic cells are not authorized.
 Target: Na prática, as pesquisas com células embrionárias não estão autorizadas.
 Prediction: Na prática, as pesquisas com células embrionárias não são autorizadas.
-Tempo de execução: 6123.298030376434 segundos
+Tempo de execução: 953.7433958053589 segundos
 Bloco 1 - Meteor Score: 0.6312518194614095
 Bloco 2 - Meteor Score: 0.6484144254321035
 Bloco 3 - Meteor Score: 0.6310301601103665
@@ -2361,6 +2384,15 @@ Bloco 6 - Meteor Score: 0.6084505871925548
 Bloco 7 - Meteor Score: 0.6977441222378142
 Bloco 8 - Meteor Score: 0.6220017573857699
 Meteor: 0.6490726275258556
+Bloco 1 - Rouge Score: {'r': 0.6203389830508474, 'p': 0.5613496932515337, 'f': 0.5893719756887884}
+Bloco 2 - Rouge Score: {'r': 0.6532258064516129, 'p': 0.6549865229110512, 'f': 0.6541049748115838}
+Bloco 3 - Rouge Score: {'r': 0.6714285714285714, 'p': 0.6505190311418685, 'f': 0.6608084308536234}
+Bloco 4 - Rouge Score: {'r': 0.664576802507837, 'p': 0.6385542168674698, 'f': 0.6513056785657421}
+Bloco 5 - Rouge Score: {'r': 0.7166666666666667, 'p': 0.7136929460580913, 'f': 0.7151767101767369}
+Bloco 6 - Rouge Score: {'r': 0.6411290322580645, 'p': 0.6068702290076335, 'f': 0.6235294067684737}
+Bloco 7 - Rouge Score: {'r': 0.6726190476190477, 'p': 0.6457142857142857, 'f': 0.6588921232819659}
+Bloco 8 - Rouge Score: {'r': 0.5517241379310345, 'p': 0.5925925925925926, 'f': 0.571428566434949}
+Rouge: {'r': 0.6489636309892103, 'p': 0.6330349396930658, 'f': 0.6405772333227329}
 Bloco 1 - BLEU Score: 0.37824157212431575
 Bloco 2 - BLEU Score: 0.43814202040067696
 Bloco 3 - BLEU Score: 0.4286113654158857
@@ -2374,7 +2406,7 @@ opus-mt-en-ROMANCE
 opus-mt-tc-big-en-pt
 translation-en-pt-t5
 mbart-large-50-many-to-many-mmt
-    exec_time: 6123.298030376434
+    exec_time: 953.7433958053589
     meteor: 0.6490726275258556
     bleu: 0.4181054351117772
 Medias gerais ROUGE: {'rouge-1': {'r': 0.05790291922570336, 'p': 0.05631789674118379, 'f': 0.05699223604550664}, 'rouge-2': {'r': 0.016976785944349777, 'p': 0.01654371326029798, 'f': 0.016737148412550057}, 'rouge-l': {'r': 0.05664207792429622, 'p': 0.05510739999449532, 'f': 0.05575888652741817}}
